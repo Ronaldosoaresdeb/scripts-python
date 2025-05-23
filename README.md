@@ -5,8 +5,6 @@
 **Função:**  
 Revisa questões técnicas e traduz para português brasileiro técnico.
 
-Dois scripts Python para processamento de questões técnicas:
-
 ## 📝 `reviwer_questions.py`
 
 **Função:**  
