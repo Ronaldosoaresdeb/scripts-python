@@ -10,3 +10,4 @@ Revisa questões técnicas e traduz para português brasileiro técnico.
 **Função:**  
 Revisa as perguntas traduzida de forma literal para um tecnico mais compreensivel
 
+ 
